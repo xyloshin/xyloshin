@@ -16,3 +16,6 @@ Codex Meter requires macOS 14+ and a compatible Codex client signed in with Chat
 Tried one? Open an issue in its repository with what helped or what got in the way. Please leave out private information.
 
 Independent projects, not affiliated with OpenAI.
+
+<!-- Profile-load estimate displayed on xyloshin.com. -->
+<img src="https://komarev.com/ghpvc/?username=xyloshin&style=pixel" alt="" width="1" height="1">
